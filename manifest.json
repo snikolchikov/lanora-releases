@@ -1,0 +1,24 @@
+{
+  "version": "0.1.4",
+  "tag": "v0.1.4",
+  "sourceRevision": "b2c4cd18230a0fe3a613da71dfa67c9d240800c0",
+  "prerelease": true,
+  "assets": [
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "name": "Lanora-Windows-x64.exe",
+      "sha256": "7903e85ef8a658bb95bc86871d0df442fef0741e59c9af849d59af8e8a5bc0a6",
+      "size": 13672753,
+      "url": "https://github.com/snikolchikov/lanora-releases/releases/download/v0.1.4/Lanora-Windows-x64.exe"
+    },
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "name": "Lanora-Linux-amd64.deb",
+      "sha256": "af63f1c2ca34a7835da7d343585abf603026a252eb94db7f65f2fcec1ea55b40",
+      "size": 9314868,
+      "url": "https://github.com/snikolchikov/lanora-releases/releases/download/v0.1.4/Lanora-Linux-amd64.deb"
+    }
+  ]
+}
