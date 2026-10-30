@@ -1,24 +1,24 @@
 {
-  "version": "0.1.8",
-  "tag": "v0.1.8",
-  "sourceRevision": "da84b390acb1eb89ddd1f8acbd1554ddbc10e01a",
+  "version": "0.1.9",
+  "tag": "v0.1.9",
+  "sourceRevision": "bc838dfc72705ce417b4d05b1447cbfb9f9fef4f",
   "prerelease": false,
   "assets": [
     {
       "os": "windows",
       "arch": "amd64",
-      "name": "Lanora-Windows-x64-0.1.8.exe",
-      "sha256": "fb2f322e7b2b469b7a43042efee66543656f24f52ac783d428b5f4f7dd454777",
-      "size": 13680931,
-      "url": "https://github.com/snikolchikov/lanora-releases/releases/download/v0.1.8/Lanora-Windows-x64-0.1.8.exe"
+      "name": "Lanora-Windows-x64-0.1.9.exe",
+      "sha256": "864bc7530a2b0caabbcf0cbeaa5dded12b3c23298168f52df9303af5591a67b1",
+      "size": 13679943,
+      "url": "https://github.com/snikolchikov/lanora-releases/releases/download/v0.1.9/Lanora-Windows-x64-0.1.9.exe"
     },
     {
       "os": "linux",
       "arch": "amd64",
-      "name": "Lanora-Linux-amd64-0.1.8.deb",
-      "sha256": "96cf08cfed5e1c289cf1f46dfda2a11e4a7ba85b7493b8f5bd38bd58f54389bd",
-      "size": 9319368,
-      "url": "https://github.com/snikolchikov/lanora-releases/releases/download/v0.1.8/Lanora-Linux-amd64-0.1.8.deb"
+      "name": "Lanora-Linux-amd64-0.1.9.deb",
+      "sha256": "f4911df6db2f3ad732579ea64e0deb229866de480753dfa47c1413250dd4ef9f",
+      "size": 9317192,
+      "url": "https://github.com/snikolchikov/lanora-releases/releases/download/v0.1.9/Lanora-Linux-amd64-0.1.9.deb"
     }
   ]
 }
